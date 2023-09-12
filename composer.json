@@ -1,0 +1,5 @@
+{
+  "require": {
+    "matthiasmullie/geo": "dev-master"
+  }
+}
